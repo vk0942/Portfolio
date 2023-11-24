@@ -1,5 +1,9 @@
 export const skillsData = [
   {
+    image: "/icons/C++.png",
+    caption: "C++",
+  },
+  {
     image: "/icons/html5.svg",
     caption: "HTML",
   },
@@ -10,6 +14,10 @@ export const skillsData = [
   {
     image: "/icons/javascript.svg",
     caption: "JavaScript",
+  },
+  {
+     image: "/icons/python.png",
+     caption: "Python",
   },
   {
     image: "/icons/react.svg",
@@ -60,4 +68,12 @@ export const skillsData = [
     image: "/icons/netlify.svg",
     caption: "Netlify",
   },
+  {
+    image: "/icons/mongodb.png",
+    caption: "Mongodb",
+ },
+ {
+  image: "/icons/sql.png",
+  caption: "SQL",
+},
 ];

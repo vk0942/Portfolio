@@ -13,9 +13,8 @@ export default function Footer() {
         <Linkedin />
       </div>
       <p className="text-lightGrey dark:text-gray-300/80 text-center text-sm">
-        <span className="text-base">©</span> {currentYear()} | Designed & coded
-        with <span className="text-red-600 text-[19px] self-center">❤</span> by
-        Sneha Ratnani
+        <span className="text-base">©</span> {currentYear()} | Designed  by
+        Vansh Kathnawal
       </p>
     </footer>
   );

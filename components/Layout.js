@@ -13,22 +13,22 @@ export default function Layout({ children, metaTitle }) {
         <meta name="robots" content="follow, index" />
         <title>{metaTitle}</title>
         <meta
-          content="I'm a front-end web developer and designer"
+          content="I'm a Full Stack web developer"
           name="description"
         />
         <meta
           property="og:url"
-          content={`https://sneharatnani.com${router.asPath}`}
+          content={`https://portfolio-vanshs-projects-a62718b8.vercel.app/${router.asPath}`}
         />
         <link
           rel="canonical"
-          href={`https://sneharatnani.com${router.asPath}`}
+          href={`https://portfolio-vanshs-projects-a62718b8.vercel.app/${router.asPath}`}
         />
         <meta property="og:type" content="website" />
         <meta property="og:site_name" content="Sneha Ratnani" />
         <meta
           property="og:description"
-          content="I'm a front-end web developer and designer"
+          content="I'm a Full Stack Web Developer"
         />
         <meta property="og:title" content={metaTitle} />
       </Head>

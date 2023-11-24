@@ -28,6 +28,9 @@ export default function Home() {
           </p>
           <p className="md:w-3/4 lg:w-[38rem]">
             A Full Stack Web Developer from India , I like to create amazing web Applications and programming.
+            <br></br>
+            B.Tech Final Year Student Computer Science Departement IIT Indore
+         
           </p>
           <div className="sm:flex gap-6 mt-6">
             <Link href="/about">
