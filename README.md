@@ -1,6 +1,4 @@
-<a href="https://sneharatnani.netlify.app/"><h1 align="center">Sneha Ratnani</h1></a>
-
-![portfolio site](./public/img/portfolio.png)
+<a href="/"><h1 align="center">Vansh Kathnawal</h1></a>
 
 My portfolio built with Next.js and Tailwind CSS. It is available in light as well as in dark themes.
 
